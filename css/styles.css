@@ -182,6 +182,11 @@ img {
 }
 
 /*====================section-features======================*/
+.container-container-features {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
 
 .class-features {
   padding-top: 120px;
