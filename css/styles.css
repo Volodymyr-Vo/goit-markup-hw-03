@@ -182,11 +182,6 @@ img {
 }
 
 /*====================section-features======================*/
-.container-container-features {
-  max-width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
 
 .class-features {
   padding-top: 120px;
@@ -385,12 +380,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.container-footer {
-  max-width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
 }
 
 .page-footer {
