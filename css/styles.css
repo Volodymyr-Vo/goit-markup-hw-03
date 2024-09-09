@@ -265,6 +265,8 @@ img {
   display: flex;
   row-gap: 24;
   gap: 24px;
+  margin: 0;
+  padding-left: 0;
 }
 
 .page-main-second-list-title {
